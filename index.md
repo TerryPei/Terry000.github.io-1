@@ -28,8 +28,8 @@ Find out more at my [[CV]](CV.pdf).
 
  Poster | Publication | Title | More
 -----|-----|-----|-----|-----
-<img class="paper-picture" src="c3p.png"> | **ICDM 2022** | Contrastive Code-Comment Pre-training | [[Code]](https://github.com/TerryPei/C3P) [[Paper]](https://github.com/Terry000/papers/blob/main/C-3-P/C-3-P.pdf) [[Video]](https://github.com/Terry000/papers/blob/main/C-3-P/c3p.m4v)
-<img class="paper-picture" src="arch.png"> | **ICDM 2022** | Self-Attention Gated Model for Cognitive Diagnosis Task | [[Code]](https://github.com/TerryPei/AGCDM) [[Paper]](https://github.com/Terry000/papers/blob/main/AGCDM/AGCDM.pdf) [[Poster]](https://github.com/TerryPei/AGCDM/blob/main/results/figs/poster.png)
+<img class="paper-picture" width=100% src="c3p.png"> | **ICDM 2022** | Contrastive Code-Comment Pre-training | [[Code]](https://github.com/TerryPei/C3P) [[Paper]](https://github.com/Terry000/papers/blob/main/C-3-P/C-3-P.pdf) [[Video]](https://github.com/Terry000/papers/blob/main/C-3-P/c3p.m4v)
+<img class="paper-picture" width=100% src="arch.png"> | **ICDM 2022** | Self-Attention Gated Model for Cognitive Diagnosis Task | [[Code]](https://github.com/TerryPei/AGCDM) [[Paper]](https://github.com/Terry000/papers/blob/main/AGCDM/AGCDM.pdf) [[Poster]](https://github.com/TerryPei/AGCDM/blob/main/results/figs/poster.png)
 
 
 ## Honors and Awards
