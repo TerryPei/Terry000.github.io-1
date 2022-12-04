@@ -4,7 +4,7 @@ layout: default
 
 ## About Me
 
-<img class="profile-picture" align="right" src="IMG_3359.jpg" width="170"/> 
+<img class="profile-picture" src="IMG_3359.jpg"/> 
 Hi! I am Terry 😊, a researcher at the University of Sydney. I am major in deep learning at the school of computer science.
 I am interested in applying advanced deep learning methods into software engineering and recommendation system.
 
