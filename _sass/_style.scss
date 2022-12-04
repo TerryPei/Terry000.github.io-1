@@ -21,6 +21,10 @@ a {
 a:hover {
     text-decoration: underline;
 }
+a:link_color {
+    text-decoration: None;
+    color: $news_color;
+}
 hr {
     border: 0;
     height: 0;
