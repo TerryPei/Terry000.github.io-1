@@ -54,17 +54,17 @@
         }
     }
     .paper-picture {
-        height: 170px;
-        width: 270px;
+        height: 100%;
+        width: 100%;
         position: relative;
         margin: 2px 2px 2px 2px;
         float: right;
-        border-radius: 15px;
+        border-radius: 0;
         p & {
             padding: 0;
             margin: 0;
         }
-        @media (max-width: $small-width) {
+        @media (max-width: $max-width) {
             img {
                 margin-top: -5px;
             }
