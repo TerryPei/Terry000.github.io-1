@@ -4,7 +4,7 @@ layout: default
 
 ## About Me
 
-<img class="profile-picture" src="IMG_3359.JPG"> 
+<img class="profile-picture" src="IMG_8400.PNG"> 
 
 Hi! I am Terry 😊, a researcher at the University of Sydney. I am major in deep learning at the school of computer science.
 I am interested in applying advanced deep learning methods into software engineering and recommendation system.
@@ -28,8 +28,8 @@ Find out more at my [[CV]](CV.pdf).
 
  Poster | Publication | Title | More
 -----|-----|-----|-----|-----
-<img class="paper-picture" src="c3p.png" width=560px height = 300px> | **ICDM 2022** | Contrastive Code-Comment Pre-training | [[Code]](https://github.com/TerryPei/C3P) [[Paper]](https://github.com/Terry000/papers/blob/main/C-3-P/C-3-P.pdf) [[Video]](https://github.com/Terry000/papers/blob/main/C-3-P/c3p.m4v)
-<img class="paper-picture" src="arch.png" width = 560px height = 300px> | **ICDM 2022** | Self-Attention Gated Model for Cognitive Diagnosis Task | [[Code]](https://github.com/TerryPei/AGCDM) [[Paper]](https://github.com/Terry000/papers/blob/main/AGCDM/AGCDM.pdf) [[Poster]](https://github.com/TerryPei/AGCDM/blob/main/results/figs/poster.png)
+<img class="paper-picture" src="c3p.png"> | **ICDM 2022** | Contrastive Code-Comment Pre-training | [[Code]](https://github.com/TerryPei/C3P) [[Paper]](https://github.com/Terry000/papers/blob/main/C-3-P/C-3-P.pdf) [[Video]](https://github.com/Terry000/papers/blob/main/C-3-P/c3p.m4v)
+<img class="paper-picture" src="arch.png"> | **ICDM 2022** | Self-Attention Gated Model for Cognitive Diagnosis Task | [[Code]](https://github.com/TerryPei/AGCDM) [[Paper]](https://github.com/Terry000/papers/blob/main/AGCDM/AGCDM.pdf) [[Poster]](https://github.com/TerryPei/AGCDM/blob/main/results/figs/poster.png)
 
 
 ## Honors and Awards
