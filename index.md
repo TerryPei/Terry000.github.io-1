@@ -6,10 +6,10 @@ layout: default
 
 <img class="profile-picture" src="IMG_8400.PNG"> 
 
-Hi! I am Terry 😊, a researcher at the University of Sydney. I am major in deep learning at the school of computer science.
+Hi! I am Terry 😊, a researcher at the University of Sydney. I major in deep learning at the school of computer science.
 I am interested in applying advanced deep learning methods into software engineering and recommendation system.
 
-**Research Field**: NLP/NLU, Multi-Modalities, Software Engineering, educational data mining. I also have rich experience on image and video data processing during the industry internship.
+**Research Field**: NLP/NLU, Multi-Modalities, Software Engineering, Educational Data Mining. I also have rich experience on image and video data processing during the industry internship.
 
 Find out more at my [[CV]](CV.pdf).
 
