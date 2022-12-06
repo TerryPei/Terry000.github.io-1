@@ -4,6 +4,7 @@ layout: default
 
 ## About Me
 
+
 <img class="profile-picture" src="IMG_8400.PNG"> 
 
 Hi! I am Terry 😊, a researcher at the University of Sydney. I major in deep learning at the school of computer science.
