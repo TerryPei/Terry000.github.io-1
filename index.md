@@ -27,12 +27,18 @@ Find out more at my [[CV]](CV.pdf).
 **Two first author top papers has been Accepted.** [[Accepted News]](https://www.cse.fau.edu/~xqzhu/icdm2022/ICDM2022Program.pdf)
 
 
-## Publications
+## Academic Publications
 
  Poster | Publication | Title | More
 -----|-----|-----|-----|-----
 <img class="paper-picture" src="c3p.png"> | **ICDM 2022** | Contrastive Code-Comment Pre-training | [[Code]](https://github.com/TerryPei/C3P) [[Paper]](https://github.com/Terry000/papers/blob/main/C-3-P/C-3-P.pdf) [[Video]](https://github.com/Terry000/papers/blob/main/C-3-P/c3p.m4v)
 <img class="paper-picture" src="arch.png"> | **ICDM 2022** | Self-Attention Gated Model for Cognitive Diagnosis Task | [[Code]](https://github.com/TerryPei/AGCDM) [[Paper]](https://github.com/Terry000/papers/blob/main/AGCDM/AGCDM.pdf) [[Poster]](https://github.com/TerryPei/AGCDM/blob/main/results/figs/poster.png)
+
+## Industry projects
+**Dynamic Face Detection**
+<img src="c3p.png">
+Function: Detect face dynamic bbox, live action recognition and distinguish true/fake live videos, 
+The copyright of the code belongs to the commercial authority and cannot be open source. If you intrest, the demo can be provided as a display.
 
 
 ## Honors and Awards
