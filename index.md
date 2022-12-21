@@ -36,10 +36,9 @@ Find out more at my [[CV]](CV.pdf).
 
 ## Industry projects
 **Dynamic Face Detection**
-<img src="c3p.png">
+<img src="figs/project1.jpg">
 Function: Detect face dynamic bbox, live action recognition and distinguish true/fake live videos, 
-The copyright of the code belongs to the commercial authority and cannot be open source. If you intrest, the demo can be provided as a display.
-
+The copyright of the code belongs to the commercial authority and cannot be open source. If you are interested, the demo can be provided as a display.
 
 ## Honors and Awards
 A Best Student Paper (2022)
