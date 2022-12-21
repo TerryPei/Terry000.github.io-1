@@ -35,9 +35,12 @@ Find out more at my [[CV]](CV.pdf).
 <img class="paper-picture" src="arch.png"> | **ICDM 2022** | Self-Attention Gated Model for Cognitive Diagnosis Task | [[Code]](https://github.com/TerryPei/AGCDM) [[Paper]](https://github.com/Terry000/papers/blob/main/AGCDM/AGCDM.pdf) [[Poster]](https://github.com/TerryPei/AGCDM/blob/main/results/figs/poster.png)
 
 ## Industry projects
+
 **Dynamic Face Detection**
-<img src="figs/project1.jpg">
-Function: Detect face dynamic bbox, live action recognition and distinguish true/fake live videos, 
+
+<img src="figs/project1.jpg" width=100%>
+
+Functions: Detect face dynamic bbox, live action recognition and distinguish true/fake live videos.
 The copyright of the code belongs to the commercial authority and cannot be open source. If you are interested, the demo can be provided as a display.
 
 ## Honors and Awards
