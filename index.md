@@ -39,7 +39,7 @@ Find out more at my [[CV]](CV.pdf).
 
 **1. Dynamic Face Detection**
 
-<img src="figs/project1.jpg">
+<img class=".project-picture" src="figs/project1.jpg">
 
 Functions: Detect face dynamic bbox, live action recognition and distinguish true/fake live videos.
 The copyright of the code belongs to the commercial authority and cannot be open source. If you are interested, the demo can be provided as a display.
