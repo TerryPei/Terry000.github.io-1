@@ -50,7 +50,7 @@ Provincial Second Prize in Blue Bridge Cup Programming Competition (2018)
 
 **1. Dynamic Face Detection**
 
-<img src="figs/project1.jpg" width=100%>
+<img src="figs/project1.jpg">
 
 Functions: Detect face dynamic bbox, live action recognition and distinguish true/fake live videos.
 The copyright of the code belongs to the commercial authority and cannot be open source. If you are interested, the demo can be provided as a display.
