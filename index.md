@@ -12,7 +12,7 @@ I am interested in applying advanced deep learning methods into software enginee
 
 **Research Field**: NLP/NLU, Multi-Modalities, Software Engineering, Educational Data Mining. I also have rich experience on image and video data processing during the industry internship.
 
-**Recent Work** Build an AI search engine for the neural network.
+**Recent Work**: Cooperate with teammates to build an AI search engine for the neural network.
 
 Find out more at my [[CV]](CV.pdf).
 
@@ -36,12 +36,16 @@ Find out more at my [[CV]](CV.pdf).
 
 ## Industry projects
 
-**Dynamic Face Detection**
+**1. Dynamic Face Detection**
 
 <img src="figs/project1.jpg" width=100%>
 
 Functions: Detect face dynamic bbox, live action recognition and distinguish true/fake live videos.
 The copyright of the code belongs to the commercial authority and cannot be open source. If you are interested, the demo can be provided as a display.
+
+**2. ABSA for Financial Analysis**
+Pre-Training RoBerta Model on the labeled financial news, Fine-Tuning and Prompt Learning on a variety of downstream tasks.
+
 
 ## Honors and Awards
 A Best Student Paper (2022)
