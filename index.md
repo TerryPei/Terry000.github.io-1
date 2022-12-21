@@ -27,6 +27,18 @@ Find out more at my [[CV]](CV.pdf).
 **Two first author top papers has been Accepted.** [[Accepted News]](https://www.cse.fau.edu/~xqzhu/icdm2022/ICDM2022Program.pdf)
 
 
+## Honors and Awards
+A Best Student Paper (2022)
+
+Two Full-Scholarship (2019-2020, 2020-2021)
+
+Outstanding Graduate (2019)
+
+National Second Prize in Mathematics Competition (2018)
+
+Provincial Second Prize in Blue Bridge Cup Programming Competition (2018)
+
+
 ## Academic Publications
 
  Poster | Publication | Title | More
@@ -44,19 +56,9 @@ Functions: Detect face dynamic bbox, live action recognition and distinguish tru
 The copyright of the code belongs to the commercial authority and cannot be open source. If you are interested, the demo can be provided as a display.
 
 **2. ABSA for Financial Analysis**
-Pre-Training RoBerta Model on the labeled financial news, Fine-Tuning and Prompt Learning on a variety of downstream tasks.
 
-
-## Honors and Awards
-A Best Student Paper (2022)
-
-Two Full-Scholarship (2019-2020, 2020-2021)
-
-Outstanding Graduate (2019)
-
-National Second Prize in Mathematics Competition (2018)
-
-Provincial Second Prize in Blue Bridge Cup Programming Competition (2018)
+Pre-Training RoBerta Model on the labeled financial news, 
+Fine-Tuning and Prompt Learning on a variety of downstream tasks.
 
 ## Academic Services
 
