@@ -20,10 +20,10 @@ Find out more at my [[CV]](CV.pdf).
 
 ## Recent News
 
-**Win the "Best Student Paper" awarded by ICDM as the first author** [[Award News]](https://twitter.com/icdm2022/status/1595243601545826304)
+* Win the "Best Student Paper" awarded by ICDM as the first author [[Award News]](https://twitter.com/icdm2022/status/1595243601545826304)
 
 
-**Two first author top papers has been Accepted.** [[Accepted News]](https://www.cse.fau.edu/~xqzhu/icdm2022/ICDM2022Program.pdf)
+* Two first author top papers has been Accepted. [[Accepted News]](https://www.cse.fau.edu/~xqzhu/icdm2022/ICDM2022Program.pdf)
 
 
 ## Academic Publications
@@ -35,15 +35,15 @@ Find out more at my [[CV]](CV.pdf).
 
 ## Honors and Awards
 
-A Best Student Paper (2022)
+* A Best Student Paper (2022)
 
-Two Full-Scholarship (2019-2020, 2020-2021)
+* Two Full-Scholarship (2019-2020, 2020-2021)
 
-Outstanding Graduate (2019)
+* Outstanding Graduate (2019)
 
-National Second Prize in Mathematics Competition (2018)
+* National Second Prize in Mathematics Competition (2018)
 
-Provincial Second Prize in Blue Bridge Cup Programming Competition (2018)
+* Provincial Second Prize in Blue Bridge Cup Programming Competition (2018)
 
 ## Academic Services
 
@@ -75,11 +75,11 @@ Fine-Tuning and Prompt Learning on a variety of downstream tasks. -->
 
 ## Hobbies:
 
- **Table Tennis**: Ever trained at a professional sports school in China and won second place in the municipal men's competition.
+ * Table Tennis: Ever trained at a professional sports school in China and won second place in the municipal men's competition.
 
- **Astronomy**: Be proficient in using a variety of astronomical equipment and be competent for basic astronomical observations (Not profressional).
+ * Astronomy: Be proficient in using a variety of astronomical equipment and be competent for basic astronomical observations (Not profressional).
 
- **Basketball**: Guard and Shooter. 
+ * Basketball: Guard and Shooter. 
 
 ## Contact
 
