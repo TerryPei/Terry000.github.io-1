@@ -36,11 +36,13 @@ Find out more at my [[CV]](CV.pdf).
 <img class="paper-picture" src="arch.png"> | **ICDM 2022** | Self-Attention Gated Model for Cognitive Diagnosis Task | [[Code]](https://github.com/TerryPei/AGCDM) [[Paper]](https://github.com/Terry000/papers/blob/main/AGCDM/AGCDM.pdf) [[Poster]](https://github.com/TerryPei/AGCDM/blob/main/results/figs/poster.png)
 
 ## Industry projects
+*The copyright of the code belongs to the commercial authority and cannot be open source. The demo of API can be provided as a display.
 
- Poster | Functions | More | Highlight
+ Poster | Functions | Highlight | Role
 -----|-----|-----|-----|-----
-<img class="paper-picture" src="figs/project1.jpg"> | Detect face dynamic bbox, live action recognition, distinguish true/fake live videos | The copyright of the code belongs to the commercial authority and cannot be open source. If you are interested, the demo can be provided as a display. | The project fully embodies a trade-off balance of accuracy and user experience. Users get better experience by the design of detecting the sensitivity of the affine transformation function.
-<img class="paper-picture" src="arch.png"> | **ICDM 2022** | Self-Attention Gated Model for Cognitive Diagnosis Task | [[Code]](https://github.com/TerryPei/AGCDM) [[Paper]](https://github.com/Terry000/papers/blob/main/AGCDM/AGCDM.pdf) [[Poster]](https://github.com/TerryPei/AGCDM/blob/main/results/figs/poster.png)
+<img class="paper-picture" src="figs/project1.jpg"> | (1) Detect face dynamic bbox, (2) live action recognition, (3) distinguish true/fake live videos. | The project fully embodies a trade-off balance of accuracy and user experience. Users get better experience by the design of detecting the sensitivity of the affine transformation function. | Designer and Programmer
+ABSA for Financial Analysis | (1) Aspect Sentiment Classification, (2) Aspect Term Extraction. | A basic pre-training and fine-tuning project, and the model performance is highly influenced by the quality of the labeled finacial datas. | Programmer 
+
 
 <!-- **1. Dynamic Face Detection** -->
 
@@ -77,7 +79,7 @@ Reviewer of NeurIPS, ICDM, AAAI.
 
  **Astronomy**: Be proficient in using a variety of astronomical equipment and be competent for basic astronomical observations (Not profressional).
 
- **Basketball**: Not good, but I like it. 
+ **Basketball**: Guard and Shooter. 
 
 ## Contact
 
