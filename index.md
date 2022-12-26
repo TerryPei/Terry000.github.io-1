@@ -8,11 +8,10 @@ layout: default
 <img class="profile-picture" src="IMG_8400.PNG"> 
 
 Hi! I am Terry 😊, a researcher at the University of Sydney. I major in deep learning at the school of computer science.
-I am interested in applying advanced deep learning methods into software engineering and recommendation system.
 
-**Research Field**: NLP/NLU, Multi-Modalities, Software Engineering, Educational Data Mining. I also have rich experience on image and video data processing during the industry internship.
+**Research Field**: NLP/NLU, Multi-Modalities. I also have rich experience on image and video data processing during the industry internship.
 
-**Recent Work**: Cooperate with teammates to build an AI search engine for the neural network.
+**Recent Work**: Cooperate with teammates to build an AI search engine.
 
 Find out more at my [[CV]](CV.pdf).
 
@@ -51,13 +50,13 @@ Provincial Second Prize in Blue Bridge Cup Programming Competition (2018)
 Reviewer of NeurIPS, ICDM, AAAI.
 
 ## Industry projects
-*The copyright of the code belongs to the commercial authority and cannot be open source. The demo of API can be provided as a display.
 
  Poster | Functions | Highlight | Role
 -----|-----|-----|-----|-----
 <img class="project-picture" src="figs/project1.jpg"> | (1) Detect face dynamic bbox, (2) Live action recognition, (3) Distinguish true/fake live videos. | The project fully embodies a trade-off balance of accuracy and user experience. Users get better experience by the design of detecting the sensitivity of the affine transformation function. | Designer and Programmer
 ABSA for Financial Analysis | (1) Aspect Sentiment Classification, (2) Aspect Term Extraction. | A basic pre-training and fine-tuning project, and the model performance is highly influenced by the quality of the labeled finacial datas. | Programmer 
 
+The copyright of the code belongs to the commercial authority and cannot be open source. The demo of API can be provided as a display.
 
 <!-- **1. Dynamic Face Detection** -->
 
