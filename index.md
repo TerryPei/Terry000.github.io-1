@@ -30,8 +30,6 @@ Find out more at my [[CV]](CV.pdf).
 
 ## Academic Publications
 
-** test **
-
  Poster | Publication | Title | More
 -----|-----|-----|-----|-----
 <img class="paper-picture" src="c3p.png"> | **ICDM 2022** | Contrastive Code-Comment Pre-training | [[Code]](https://github.com/TerryPei/C3P) [[Paper]](https://github.com/Terry000/papers/blob/main/C-3-P/C-3-P.pdf) [[Video]](https://github.com/Terry000/papers/blob/main/C-3-P/c3p.m4v)
@@ -39,8 +37,7 @@ Find out more at my [[CV]](CV.pdf).
 
 ## Industry projects
 
-**1. Dynamic Face Detection**
-
+<!-- **1. Dynamic Face Detection** -->
  Poster | Publication | Title | More
 -----|-----|-----|-----|-----
 <img class="paper-picture" src="c3p.png"> | **ICDM 2022** | Contrastive Code-Comment Pre-training | [[Code]](https://github.com/TerryPei/C3P) [[Paper]](https://github.com/Terry000/papers/blob/main/C-3-P/C-3-P.pdf) [[Video]](https://github.com/Terry000/papers/blob/main/C-3-P/c3p.m4v)
