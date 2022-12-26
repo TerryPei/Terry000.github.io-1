@@ -47,7 +47,7 @@ Find out more at my [[CV]](CV.pdf).
 
 ## Academic Services
 
-Reviewer of NeurIPS, ICDM, AAAI.
+* Reviewer of NeurIPS, ICDM, AAAI.
 
 ## Industry projects
 
