@@ -38,11 +38,11 @@ Find out more at my [[CV]](CV.pdf).
 ## Industry projects
 
 **1. Dynamic Face Detection**
-
-<img class=".project-picture" src="figs/project1.jpg">
-
-Functions: Detect face dynamic bbox, live action recognition and distinguish true/fake live videos.
-The copyright of the code belongs to the commercial authority and cannot be open source. If you are interested, the demo can be provided as a display.
+ Poster | Functions | More | Highlight
+ -----|-----|-----|-----|-----
+<img class="paper-picture" src="figs/project1.jpg"> | *Detect face dynamic bbox  *live action recognition *distinguish true/fake live videos |
+The copyright of the code belongs to the commercial authority and cannot be open source. If you are interested, the demo can be provided as a display. |
+The project fully embodies a trade-off balance of accuracy and user experience. Users get better experience by the design of detecting the sensitivity of the affine transformation function.
 
 **2. ABSA for Financial Analysis**
 
@@ -63,6 +63,14 @@ Provincial Second Prize in Blue Bridge Cup Programming Competition (2018)
 ## Academic Services
 
 Reviewer of NeurIPS, ICDM, AAAI.
+
+## Hobbies:
+
+> Table Tennis: Ever trained at a professional sports school in China and won second place in the municipal men's competition.
+
+> Astronomy: Be proficient in using a variety of astronomical equipment and be competent for basic astronomical observations (Not profressional).
+
+> Basketball: Not good, but I like it. 
 
 ## Contact
 
