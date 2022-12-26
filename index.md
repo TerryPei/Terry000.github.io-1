@@ -55,7 +55,7 @@ Reviewer of NeurIPS, ICDM, AAAI.
 
  Poster | Functions | Highlight | Role
 -----|-----|-----|-----|-----
-<img class="project-picture" src="figs/project1.jpg"> | (1) Detect face dynamic bbox, (2) live action recognition, (3) distinguish true/fake live videos. | The project fully embodies a trade-off balance of accuracy and user experience. Users get better experience by the design of detecting the sensitivity of the affine transformation function. | Designer and Programmer
+<img class="project-picture" src="figs/project1.jpg"> | (1) Detect face dynamic bbox, (2) Live action recognition, (3) Distinguish true/fake live videos. | The project fully embodies a trade-off balance of accuracy and user experience. Users get better experience by the design of detecting the sensitivity of the affine transformation function. | Designer and Programmer
 ABSA for Financial Analysis | (1) Aspect Sentiment Classification, (2) Aspect Term Extraction. | A basic pre-training and fine-tuning project, and the model performance is highly influenced by the quality of the labeled finacial datas. | Programmer 
 
 
