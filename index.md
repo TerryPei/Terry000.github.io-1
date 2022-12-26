@@ -39,8 +39,7 @@ Find out more at my [[CV]](CV.pdf).
 
  Poster | Functions | More | Highlight
 -----|-----|-----|-----|-----
-<img class="paper-picture" src="figs/project1.jpg"> | Detect face |
-The copyright | The project 
+<img class="paper-picture" src="figs/project1.jpg"> | Detect face | The copyright | The project 
 <img class="paper-picture" src="arch.png"> | **ICDM 2022** | Self-Attention Gated Model for Cognitive Diagnosis Task | [[Code]](https://github.com/TerryPei/AGCDM) [[Paper]](https://github.com/Terry000/papers/blob/main/AGCDM/AGCDM.pdf) [[Poster]](https://github.com/TerryPei/AGCDM/blob/main/results/figs/poster.png)
 
 <!-- **1. Dynamic Face Detection** -->
