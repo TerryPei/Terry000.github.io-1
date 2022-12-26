@@ -38,6 +38,7 @@ Find out more at my [[CV]](CV.pdf).
 ## Industry projects
 
 **1. Dynamic Face Detection**
+
  Poster | Functions | More | Highlight
  -----|-----|-----|-----|-----
 <img class="paper-picture" src="figs/project1.jpg"> | *Detect face dynamic bbox  *live action recognition *distinguish true/fake live videos |
@@ -66,11 +67,11 @@ Reviewer of NeurIPS, ICDM, AAAI.
 
 ## Hobbies:
 
-> Table Tennis: Ever trained at a professional sports school in China and won second place in the municipal men's competition.
+> **Table Tennis**: Ever trained at a professional sports school in China and won second place in the municipal men's competition.
 
-> Astronomy: Be proficient in using a variety of astronomical equipment and be competent for basic astronomical observations (Not profressional).
+> **Astronomy**: Be proficient in using a variety of astronomical equipment and be competent for basic astronomical observations (Not profressional).
 
-> Basketball: Not good, but I like it. 
+> **Basketball**: Not good, but I like it. 
 
 ## Contact
 
