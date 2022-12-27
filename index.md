@@ -73,7 +73,7 @@ Fine-Tuning and Prompt Learning on a variety of downstream tasks. -->
 
 
 
-## Hobbies:
+## Hobbies
 
  * Table Tennis: Ever trained at a professional sports school in China and won second place in the municipal men's competition.
 
