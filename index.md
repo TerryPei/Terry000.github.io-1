@@ -49,7 +49,7 @@ Find out more at my [[CV]](CV.pdf).
 
 * Reviewer of NeurIPS, ICDM, AAAI.
 
-## Industry projects
+## Industry Projects
 
  Poster | Functions | Highlight | Role
 -----|-----|-----|-----|-----
@@ -71,13 +71,11 @@ The project fully embodies a trade-off balance of accuracy and user experience. 
 Pre-Training RoBerta Model on the labeled financial news, 
 Fine-Tuning and Prompt Learning on a variety of downstream tasks. -->
 
-
-
 ## Hobbies
 
  * Table Tennis: Ever trained at a professional sports school in China and won second place in the municipal men's competition.
 
- * Astronomy: Be proficient in using a variety of astronomical equipment and be competent for basic astronomical observations (Not profressional).
+ * Astronomy: Be proficient in using various astronomical equipment and be competent in basic astronomical observations (Not professional).
 
  * Basketball: Guard and Shooter. 
 
