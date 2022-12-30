@@ -23,7 +23,7 @@ Find out more at my [[CV]](CV.pdf).
 * Win the "Best Student Paper" awarded by ICDM as the first author [[Award News]](https://twitter.com/icdm2022/status/1595243601545826304)
 
 
-* Two first author top papers has been Accepted. [[Accepted News]](https://www.cse.fau.edu/~xqzhu/icdm2022/ICDM2022Program.pdf)
+* Two top conference papers has been Accepted. [[Accepted News]](https://www.cse.fau.edu/~xqzhu/icdm2022/ICDM2022Program.pdf)
 
 
 ## Academic Publications
