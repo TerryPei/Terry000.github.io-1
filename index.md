@@ -11,7 +11,7 @@ Hi! I am Xiaohuan Pei (Terry) 😊, a researcher at the University of Sydney. I 
 
 **Research Field**: NLP/NLU, Multi-Modalities. I also have rich experience on image and video data processing during the industry internship.
 
-**Recent Work**: Cooperate with teammates to build an AI search engine by Few-Shot Learning.
+**Recent Work**: Cooperate with teammates to build an AI search engine by Meta-Learning.
 
 Find out more at my [[CV]](CV.pdf).
 
@@ -23,7 +23,7 @@ Find out more at my [[CV]](CV.pdf).
 * Win the "Best Student Paper" awarded by ICDM as the first author. [[Award News]](https://twitter.com/icdm2022/status/1595243601545826304)
 
 
-* Our work has been accepted by ICDM. [[Accepted News]](https://www.cse.fau.edu/~xqzhu/icdm2022/ICDM2022Program.pdf)
+* Our work has been accepted by ICDM. ([Core A*](http://portal.core.edu.au/conf-ranks/?search=mining&by=all&source=all&sort=arank&page=1)) [[Accepted News]](https://www.cse.fau.edu/~xqzhu/icdm2022/ICDM2022Program.pdf)
 
 
 ## Academic Publications
@@ -47,7 +47,7 @@ Find out more at my [[CV]](CV.pdf).
 
 ## Academic Services
 
-* Reviewer of NeurIPS, ICDM, AAAI.
+* Reviewer of ICML, NeurIPS, ICDM, AAAI.
 
 ## Industry Projects
 
