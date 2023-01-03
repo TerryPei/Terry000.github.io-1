@@ -23,7 +23,7 @@ Find out more at my [[CV]](CV.pdf).
 * Win the "Best Student Paper" awarded by ICDM as the first author. [[Award News]](https://twitter.com/icdm2022/status/1595243601545826304)
 
 
-* Our work has been accepted by ICDM ([Core A*](http://portal.core.edu.au/conf-ranks/?search=mining&by=all&source=all&sort=arank&page=1)). [[Accepted News]](https://www.cse.fau.edu/~xqzhu/icdm2022/ICDM2022Program.pdf)
+* Our work has been accepted by ICDM ([Core Rank A*](http://portal.core.edu.au/conf-ranks/?search=mining&by=all&source=all&sort=arank&page=1)). [[Accepted News]](https://www.cse.fau.edu/~xqzhu/icdm2022/ICDM2022Program.pdf)
 
 
 ## Academic Publications
