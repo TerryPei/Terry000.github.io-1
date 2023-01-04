@@ -7,7 +7,7 @@ layout: default
 
 <img class="profile-picture" src="figs/IMG_6638.jpg"> 
 
-Hi! I am Xiaohuan Pei (Terry) 😊, a researcher at the University of Sydney. I major in deep learning at the school of computer science.
+Hi! I am Xiaohuan Terry Pei 😊, a researcher at the University of Sydney. I major in deep learning at the school of computer science.
 
 **Research Field**: NLP/NLU, Multi-Modalities. I also have rich experience on image and video data processing during the industry internship.
 
