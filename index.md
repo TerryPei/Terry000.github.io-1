@@ -9,7 +9,7 @@ layout: default
 
 Hi! I am Xiaohuan Terry Pei 😊, a researcher at the University of Sydney. I major in deep learning at the school of computer science.
 
-**Research Field**: NLP/NLU, Multi-Modalities. I also have rich experience on image and video data processing during the industry internship.
+**Research Field**: Meta-Learning, Multi-Modalities, NLU. I also have rich experience on image and video data processing during the industry internship.
 
 **Recent Work**: Cooperate with teammates to build an AI search engine by Meta-Learning.
 
@@ -43,7 +43,7 @@ Find out more at my [[CV]](CV.pdf).
 
 * National Second Prize in Mathematics Competition (2018)
 
-* Provincial Second Prize in Blue Bridge Cup Programming Competition (2018)
+* Provincial Prize in Blue Bridge Cup Programming C++ Competition (2018)
 
 ## Academic Services
 
